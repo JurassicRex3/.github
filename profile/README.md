@@ -4,8 +4,8 @@
 
 I am a developer and content creator focused on building practical solutions and sharing knowledge through digital content. My primary programming languages are **Lua** and **Python**, and I am continuously developing my skills through hands-on projects.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github)](https://github.com/JurassicRex3)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=flat-square&logo=github)](https://github.com/JurassicRex3?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/JurassicRex3?style=flat-square&logo=github)](https://github.com/JurassicRex3)
+[![GitHub stars](https://img.shields.io/github/stars/JurassicRex3?style=flat-square&logo=github)](https://github.com/JurassicRex3?tab=repositories)
 
 ## Skills
 
