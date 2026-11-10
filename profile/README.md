@@ -25,11 +25,6 @@ I am a developer and content creator focused on building practical solutions and
 - **Mission:** Making game and movie
 - **Focus area:** content, entertainment, developement
 
-## Featured Projects
-
-- **[Project Name](https://github.com/yourusername/project-name)** — [Brief project description]
-- **[Project Name](https://github.com/yourusername/project-name)** — [Brief project description]
-
 ## Fun Facts
 
 - I work across both software development and content creation.
