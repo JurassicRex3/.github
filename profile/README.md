@@ -30,12 +30,6 @@ I am a developer and content creator focused on building practical solutions and
 - **[Project Name](https://github.com/yourusername/project-name)** — [Brief project description]
 - **[Project Name](https://github.com/yourusername/project-name)** — [Brief project description]
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JurassicRex3&show_icons=true&hide_title=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JurassicRex3&layout=compact&theme=default)
-
 ## Fun Facts
 
 - I work across both software development and content creation.
