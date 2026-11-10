@@ -1,17 +1,17 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jurassic Rex 👋
 
 > Developer | Content Creator | Lifelong Learner
 
 I am a developer and content creator focused on building practical solutions and sharing knowledge through digital content. My primary programming languages are **Lua** and **Python**, and I am continuously developing my skills through hands-on projects.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=flat-square&logo=github)](https://github.com/yourusername?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github)](https://github.com/JurassicRex3)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=flat-square&logo=github)](https://github.com/JurassicRex3?tab=repositories)
 
 ## Skills
 
 - **Languages:** Lua, Python
-- **Development focus:** [Add your focus, such as game development, scripting, or automation]
-- **Currently learning:** [Add technologies or concepts you're learning]
+- **Development focus:** A roblox game
+- **Currently learning:** Lua coding
 
 ## What I Do
 
@@ -21,9 +21,9 @@ I am a developer and content creator focused on building practical solutions and
 
 ## My Organization
 
-- **Organization name:** [Your organization or personal brand]
-- **Mission:** [Brief description of its purpose]
-- **Focus area:** [Development, content, education, creativity, etc.]
+- **Organization name:** Jurassic Studio
+- **Mission:** Making game and movie
+- **Focus area:** content, entertainment, developement
 
 ## Featured Projects
 
@@ -32,24 +32,24 @@ I am a developer and content creator focused on building practical solutions and
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JurassicRex3&show_icons=true&hide_title=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JurassicRex3&layout=compact&theme=default)
 
 ## Fun Facts
 
 - I work across both software development and content creation.
 - My primary programming languages are Lua and Python.
 - I enjoy learning by building and experimenting.
-- Outside of coding, I enjoy [your hobby or interest].
+- Outside of coding, I enjoy horse riding.
 
 ## Social Links
 
-- **GitHub:** [your GitHub profile](https://github.com/yourusername)
-- **YouTube:** [your YouTube link]
-- **TikTok:** [your TikTok link]
-- **Discord:** [your Discord username or invite]
-- **Email:** [your email address]
+- **GitHub:** [JurassicRex3](https://github.com/JurassicRex3)
+- **YouTube:** [JurassicRex3](http://www.youtube.com/@JurassicRex3)
+- **X:** [JurassicRexYT](https://x.com/JurassicRexYT)
+- **Discord:** jurassicrex5
+- **Email:** [rowansgamesentertainment@gmail.com](mailto:rowansgamesentertainment@gmail.com)
 
 ---
 
